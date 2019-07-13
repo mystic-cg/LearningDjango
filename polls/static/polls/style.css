@@ -1,0 +1,13 @@
+li a {
+    color: green;
+}
+
+body {
+    /*Automatically adapt to screen size*/
+    background: white url("images/bg.jpg") no-repeat;
+    width: 98%;
+    height: 97%;
+    background-size: 100% 100%;
+    position: absolute;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/bg.jpg', sizingMethod=scale);
+}
