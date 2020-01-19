@@ -1,1 +1,1 @@
-# learning web by python django
+# learning django
